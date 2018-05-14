@@ -1,0 +1,5 @@
+D:\自学研究\简单加密算法\SimpleEncryption_prj\SimpleEncryption_prj\bin\Debug\SimpleEncryption_prj.exe.config
+D:\自学研究\简单加密算法\SimpleEncryption_prj\SimpleEncryption_prj\bin\Debug\SimpleEncryption_prj.exe
+D:\自学研究\简单加密算法\SimpleEncryption_prj\SimpleEncryption_prj\bin\Debug\SimpleEncryption_prj.pdb
+D:\自学研究\简单加密算法\SimpleEncryption_prj\SimpleEncryption_prj\obj\Debug\SimpleEncryption_prj.exe
+D:\自学研究\简单加密算法\SimpleEncryption_prj\SimpleEncryption_prj\obj\Debug\SimpleEncryption_prj.pdb

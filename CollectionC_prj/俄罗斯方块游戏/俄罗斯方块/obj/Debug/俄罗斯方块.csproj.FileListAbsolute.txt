@@ -1,0 +1,17 @@
+D:\學習計劃\1月學習計劃\俄罗斯方块游戏\俄罗斯方块\bin\Debug\俄罗斯方块.exe
+D:\學習計劃\1月學習計劃\俄罗斯方块游戏\俄罗斯方块\bin\Debug\俄罗斯方块.pdb
+D:\學習計劃\1月學習計劃\俄罗斯方块游戏\俄罗斯方块\obj\Debug\俄罗斯方块.Form1.resources
+D:\學習計劃\1月學習計劃\俄罗斯方块游戏\俄罗斯方块\obj\Debug\俄罗斯方块.Properties.Resources.resources
+D:\學習計劃\1月學習計劃\俄罗斯方块游戏\俄罗斯方块\obj\Debug\俄罗斯方块.csproj.GenerateResource.Cache
+D:\學習計劃\1月學習計劃\俄罗斯方块游戏\俄罗斯方块\obj\Debug\俄罗斯方块.exe
+D:\學習計劃\1月學習計劃\俄罗斯方块游戏\俄罗斯方块\obj\Debug\俄罗斯方块.pdb
+E:\學習計劃\1月學習計劃\俄罗斯方块游戏\俄罗斯方块\obj\Debug\俄罗斯方块.exe
+E:\學習計劃\1月學習計劃\俄罗斯方块游戏\俄罗斯方块\obj\Debug\俄罗斯方块.pdb
+E:\學習計劃\1月學習計劃\俄罗斯方块游戏\俄罗斯方块\bin\Debug\俄罗斯方块.exe
+E:\學習計劃\1月學習計劃\俄罗斯方块游戏\俄罗斯方块\bin\Debug\俄罗斯方块.pdb
+E:\學習計劃\1月學習計劃\俄罗斯方块游戏\俄罗斯方块\obj\Debug\俄罗斯方块.csprojResolveAssemblyReference.cache
+E:\學習計劃\1月學習計劃\俄罗斯方块游戏\俄罗斯方块\obj\Debug\俄罗斯方块.Form1.resources
+E:\學習計劃\1月學習計劃\俄罗斯方块游戏\俄罗斯方块\obj\Debug\俄罗斯方块.Properties.Resources.resources
+E:\學習計劃\1月學習計劃\俄罗斯方块游戏\俄罗斯方块\obj\Debug\俄罗斯方块.csproj.GenerateResource.Cache
+F:\自学研究\俄罗斯方块游戏\俄罗斯方块\obj\Debug\俄罗斯方块.exe
+F:\自学研究\俄罗斯方块游戏\俄罗斯方块\obj\Debug\俄罗斯方块.pdb
