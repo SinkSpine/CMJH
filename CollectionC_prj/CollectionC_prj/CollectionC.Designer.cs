@@ -75,7 +75,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "CollectionC";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "C#语言基础1.0";
+            this.Text = "吵命大杂烩1.0";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.CollectionC_FormClosing);
             this.ResumeLayout(false);
 

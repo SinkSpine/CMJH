@@ -28,3 +28,14 @@ D:\自学研究\吵命集合1.0\CollectionC_prj\CollectionC_prj\obj\Debug\Collec
 D:\Project\CMJH\CollectionC_prj\CollectionC_prj\bin\Debug\CollectionC_prj.exe.config
 D:\Project\CMJH\CollectionC_prj\CollectionC_prj\obj\Debug\CollectionC_prj.exe
 D:\Project\CMJH\CollectionC_prj\CollectionC_prj\obj\Debug\CollectionC_prj.pdb
+D:\Project\CMJH\CollectionC_prj\CollectionC_prj\bin\Debug\CollectionC_prj.exe
+D:\Project\CMJH\CollectionC_prj\CollectionC_prj\bin\Debug\CollectionC_prj.pdb
+D:\Project\CMJH\CollectionC_prj\CollectionC_prj\bin\Debug\HelpClass.dll
+D:\Project\CMJH\CollectionC_prj\CollectionC_prj\bin\Debug\HelpClass.pdb
+D:\Project\CMJH\CollectionC_prj\CollectionC_prj\obj\Debug\CollectionC_prj.csprojResolveAssemblyReference.cache
+D:\Project\CMJH\CollectionC_prj\CollectionC_prj\obj\Debug\CollectionC_prj.CollectionC.resources
+D:\Project\CMJH\CollectionC_prj\CollectionC_prj\obj\Debug\CollectionC_prj.Encryption.Encryption.resources
+D:\Project\CMJH\CollectionC_prj\CollectionC_prj\obj\Debug\CollectionC_prj.FormLibrary.Cycle.resources
+D:\Project\CMJH\CollectionC_prj\CollectionC_prj\obj\Debug\CollectionC_prj.Properties.Resources.resources
+D:\Project\CMJH\CollectionC_prj\CollectionC_prj\obj\Debug\CollectionC_prj.Tetris.Tetris.resources
+D:\Project\CMJH\CollectionC_prj\CollectionC_prj\obj\Debug\CollectionC_prj.csproj.GenerateResource.Cache

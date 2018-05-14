@@ -2,3 +2,8 @@ D:\自学研究\C#语言基础\CollectionC_prj\HelpClass\bin\Debug\HelpClass.dll
 D:\自学研究\C#语言基础\CollectionC_prj\HelpClass\bin\Debug\HelpClass.pdb
 D:\自学研究\C#语言基础\CollectionC_prj\HelpClass\obj\Debug\HelpClass.dll
 D:\自学研究\C#语言基础\CollectionC_prj\HelpClass\obj\Debug\HelpClass.pdb
+D:\Project\CMJH\CollectionC_prj\HelpClass\bin\Debug\HelpClass.dll
+D:\Project\CMJH\CollectionC_prj\HelpClass\bin\Debug\HelpClass.pdb
+D:\Project\CMJH\CollectionC_prj\HelpClass\obj\Debug\HelpClass.csprojResolveAssemblyReference.cache
+D:\Project\CMJH\CollectionC_prj\HelpClass\obj\Debug\HelpClass.dll
+D:\Project\CMJH\CollectionC_prj\HelpClass\obj\Debug\HelpClass.pdb
