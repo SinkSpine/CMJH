@@ -25,3 +25,6 @@ D:\自学研究\吵命集合1.0\CollectionC_prj\CollectionC_prj\obj\Debug\Collec
 D:\自学研究\吵命集合1.0\CollectionC_prj\CollectionC_prj\obj\Debug\CollectionC_prj.Properties.Resources.resources
 D:\自学研究\吵命集合1.0\CollectionC_prj\CollectionC_prj\obj\Debug\CollectionC_prj.Tetris.Tetris.resources
 D:\自学研究\吵命集合1.0\CollectionC_prj\CollectionC_prj\obj\Debug\CollectionC_prj.csproj.GenerateResource.Cache
+D:\Project\CMJH\CollectionC_prj\CollectionC_prj\bin\Debug\CollectionC_prj.exe.config
+D:\Project\CMJH\CollectionC_prj\CollectionC_prj\obj\Debug\CollectionC_prj.exe
+D:\Project\CMJH\CollectionC_prj\CollectionC_prj\obj\Debug\CollectionC_prj.pdb
