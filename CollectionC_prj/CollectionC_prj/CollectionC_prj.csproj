@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>4848.ico</ApplicationIcon>
+    <ApplicationIcon>JZ.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -65,6 +65,18 @@
     <Compile Include="FormLibrary\Cycle.Designer.cs">
       <DependentUpon>Cycle.cs</DependentUpon>
     </Compile>
+    <Compile Include="ImageConversionIcoAll\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImageConversionIcoAll\Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Overtime\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Overtime\Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tetris\Tetris.cs">
@@ -81,6 +93,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormLibrary\Cycle.resx">
       <DependentUpon>Cycle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImageConversionIcoAll\Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Overtime\Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -108,9 +126,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="4848.ico" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\HelpClass\HelpClass.csproj">
       <Project>{80d1b360-125c-449f-8b65-5c2434b780b6}</Project>
       <Name>HelpClass %28HelpClass\HelpClass%29</Name>
@@ -118,6 +133,10 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="MyNoeGame\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ICO\JZ.ico" />
+    <Content Include="JZ.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

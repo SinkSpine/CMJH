@@ -7,3 +7,8 @@ D:\Project\CMJH\CollectionC_prj\HelpClass\bin\Debug\HelpClass.pdb
 D:\Project\CMJH\CollectionC_prj\HelpClass\obj\Debug\HelpClass.csprojResolveAssemblyReference.cache
 D:\Project\CMJH\CollectionC_prj\HelpClass\obj\Debug\HelpClass.dll
 D:\Project\CMJH\CollectionC_prj\HelpClass\obj\Debug\HelpClass.pdb
+D:\Projects\程序集合\CollectionC_prj\HelpClass\bin\Debug\HelpClass.dll
+D:\Projects\程序集合\CollectionC_prj\HelpClass\bin\Debug\HelpClass.pdb
+D:\Projects\程序集合\CollectionC_prj\HelpClass\obj\Debug\HelpClass.csprojResolveAssemblyReference.cache
+D:\Projects\程序集合\CollectionC_prj\HelpClass\obj\Debug\HelpClass.dll
+D:\Projects\程序集合\CollectionC_prj\HelpClass\obj\Debug\HelpClass.pdb

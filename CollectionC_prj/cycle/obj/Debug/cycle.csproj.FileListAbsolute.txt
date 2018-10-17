@@ -9,3 +9,9 @@ D:\Project\CMJH\CollectionC_prj\cycle\bin\Debug\cycle.pdb
 D:\Project\CMJH\CollectionC_prj\cycle\obj\Debug\cycle.csprojResolveAssemblyReference.cache
 D:\Project\CMJH\CollectionC_prj\cycle\obj\Debug\cycle.exe
 D:\Project\CMJH\CollectionC_prj\cycle\obj\Debug\cycle.pdb
+D:\Projects\程序集合\CollectionC_prj\cycle\bin\Debug\cycle.exe.config
+D:\Projects\程序集合\CollectionC_prj\cycle\bin\Debug\cycle.exe
+D:\Projects\程序集合\CollectionC_prj\cycle\bin\Debug\cycle.pdb
+D:\Projects\程序集合\CollectionC_prj\cycle\obj\Debug\cycle.csprojResolveAssemblyReference.cache
+D:\Projects\程序集合\CollectionC_prj\cycle\obj\Debug\cycle.exe
+D:\Projects\程序集合\CollectionC_prj\cycle\obj\Debug\cycle.pdb

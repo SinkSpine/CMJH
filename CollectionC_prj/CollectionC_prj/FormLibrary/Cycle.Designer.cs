@@ -61,18 +61,20 @@
             this.tb1.Location = new System.Drawing.Point(13, 70);
             this.tb1.Multiline = true;
             this.tb1.Name = "tb1";
-            this.tb1.Size = new System.Drawing.Size(459, 379);
+            this.tb1.Size = new System.Drawing.Size(459, 185);
             this.tb1.TabIndex = 2;
             // 
             // Cycle
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(484, 461);
+            this.ClientSize = new System.Drawing.Size(484, 261);
             this.Controls.Add(this.tb1);
             this.Controls.Add(this.bt2);
             this.Controls.Add(this.bt1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "Cycle";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "循环0-20";

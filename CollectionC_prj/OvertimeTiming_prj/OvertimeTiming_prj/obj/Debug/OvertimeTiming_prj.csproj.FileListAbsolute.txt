@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\测试集合\OvertimeTiming_prj\OvertimeTiming_prj\bin\Debug\OvertimeTiming_prj.exe.config
+C:\Users\Administrator\Desktop\测试集合\OvertimeTiming_prj\OvertimeTiming_prj\bin\Debug\OvertimeTiming_prj.exe
+C:\Users\Administrator\Desktop\测试集合\OvertimeTiming_prj\OvertimeTiming_prj\bin\Debug\OvertimeTiming_prj.pdb
+C:\Users\Administrator\Desktop\测试集合\OvertimeTiming_prj\OvertimeTiming_prj\obj\Debug\OvertimeTiming_prj.Main.resources
+C:\Users\Administrator\Desktop\测试集合\OvertimeTiming_prj\OvertimeTiming_prj\obj\Debug\OvertimeTiming_prj.Properties.Resources.resources
+C:\Users\Administrator\Desktop\测试集合\OvertimeTiming_prj\OvertimeTiming_prj\obj\Debug\OvertimeTiming_prj.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\测试集合\OvertimeTiming_prj\OvertimeTiming_prj\obj\Debug\OvertimeTiming_prj.exe
+C:\Users\Administrator\Desktop\测试集合\OvertimeTiming_prj\OvertimeTiming_prj\obj\Debug\OvertimeTiming_prj.pdb
+C:\Users\Administrator\Desktop\测试集合\OvertimeTiming_prj\OvertimeTiming_prj\obj\Debug\OvertimeTiming_prj.csprojResolveAssemblyReference.cache

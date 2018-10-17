@@ -42,5 +42,11 @@ namespace CollectionC_prj
             Encryption.Encryption encryption = new Encryption.Encryption();
             encryption.ShowDialog();
         }
+
+        private void BtOverTime_Click(object sender, EventArgs e)
+        {
+            Overtime.Main main = new Overtime.Main();
+            main.ShowDialog();
+        }
     }
 }

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的常规信息通过以下
 // 特性集控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("CollectionC_prj")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("作者沉棘(QQ:374798969)")]
+[assembly: AssemblyDescription("QQ:374798969")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CollectionC_prj")]
+[assembly: AssemblyCompany("沉棘编写")]
+[assembly: AssemblyProduct("沉棘程序集")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

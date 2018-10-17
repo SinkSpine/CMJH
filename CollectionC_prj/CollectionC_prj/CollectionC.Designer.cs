@@ -32,6 +32,7 @@
             this.btCycle = new System.Windows.Forms.Button();
             this.BtFk = new System.Windows.Forms.Button();
             this.BtJm = new System.Windows.Forms.Button();
+            this.BtOverTime = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btCycle
@@ -64,18 +65,29 @@
             this.BtJm.UseVisualStyleBackColor = true;
             this.BtJm.Click += new System.EventHandler(this.BtJm_Click);
             // 
+            // BtOverTime
+            // 
+            this.BtOverTime.Location = new System.Drawing.Point(255, 13);
+            this.BtOverTime.Name = "BtOverTime";
+            this.BtOverTime.Size = new System.Drawing.Size(75, 23);
+            this.BtOverTime.TabIndex = 3;
+            this.BtOverTime.Text = "加班计时器";
+            this.BtOverTime.UseVisualStyleBackColor = true;
+            this.BtOverTime.Click += new System.EventHandler(this.BtOverTime_Click);
+            // 
             // CollectionC
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(984, 661);
+            this.Controls.Add(this.BtOverTime);
             this.Controls.Add(this.BtJm);
             this.Controls.Add(this.BtFk);
             this.Controls.Add(this.btCycle);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "CollectionC";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "吵命大杂烩1.0";
+            this.Text = "程序集";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.CollectionC_FormClosing);
             this.ResumeLayout(false);
 
@@ -86,6 +98,7 @@
         private System.Windows.Forms.Button btCycle;
         private System.Windows.Forms.Button BtFk;
         private System.Windows.Forms.Button BtJm;
+        private System.Windows.Forms.Button BtOverTime;
     }
 }
 
