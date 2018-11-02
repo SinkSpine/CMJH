@@ -66,5 +66,17 @@ namespace CollectionC_prj
             Decompile.Main main = new Decompile.Main();
             main.ShowDialog();
         }
+
+        private void BtJson_Click(object sender, EventArgs e)
+        {
+            Json.Main main = new Json.Main();
+            main.ShowDialog();
+        }
+
+        private void BtRegular_Click(object sender, EventArgs e)
+        {
+            Regular.Main main = new Regular.Main();
+            main.ShowDialog();
+        }
     }
 }

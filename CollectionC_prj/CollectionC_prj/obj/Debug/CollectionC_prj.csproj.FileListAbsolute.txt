@@ -60,3 +60,5 @@ D:\Projects\程序集合\CollectionC_prj\CollectionC_prj\obj\Debug\CollectionC_p
 D:\Projects\程序集合\CollectionC_prj\CollectionC_prj\obj\Debug\CollectionC_prj.Decompile.Main.resources
 D:\Projects\程序集合\CollectionC_prj\CollectionC_prj\obj\Debug\CollectionC_prj.Encryption.Main.resources
 D:\Projects\程序集合\CollectionC_prj\CollectionC_prj\obj\Debug\CollectionC_prj.Tetris.Main.resources
+D:\Projects\程序集合\CollectionC_prj\CollectionC_prj\obj\Debug\CollectionC_prj.Json.Main.resources
+D:\Projects\程序集合\CollectionC_prj\CollectionC_prj\obj\Debug\CollectionC_prj.Regular.Main.resources

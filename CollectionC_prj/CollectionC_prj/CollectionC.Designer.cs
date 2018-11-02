@@ -36,6 +36,8 @@
             this.BtImgToIco = new System.Windows.Forms.Button();
             this.BtEntity = new System.Windows.Forms.Button();
             this.BtDecompile = new System.Windows.Forms.Button();
+            this.BtJson = new System.Windows.Forms.Button();
+            this.BtRegular = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btCycle
@@ -108,11 +110,33 @@
             this.BtDecompile.UseVisualStyleBackColor = true;
             this.BtDecompile.Click += new System.EventHandler(this.BtDecompile_Click);
             // 
+            // BtJson
+            // 
+            this.BtJson.Location = new System.Drawing.Point(579, 13);
+            this.BtJson.Name = "BtJson";
+            this.BtJson.Size = new System.Drawing.Size(75, 23);
+            this.BtJson.TabIndex = 7;
+            this.BtJson.Text = "JSON解析";
+            this.BtJson.UseVisualStyleBackColor = true;
+            this.BtJson.Click += new System.EventHandler(this.BtJson_Click);
+            // 
+            // BtRegular
+            // 
+            this.BtRegular.Location = new System.Drawing.Point(660, 13);
+            this.BtRegular.Name = "BtRegular";
+            this.BtRegular.Size = new System.Drawing.Size(75, 23);
+            this.BtRegular.TabIndex = 8;
+            this.BtRegular.Text = "正则表达式";
+            this.BtRegular.UseVisualStyleBackColor = true;
+            this.BtRegular.Click += new System.EventHandler(this.BtRegular_Click);
+            // 
             // CollectionC
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(984, 661);
+            this.Controls.Add(this.BtRegular);
+            this.Controls.Add(this.BtJson);
             this.Controls.Add(this.BtDecompile);
             this.Controls.Add(this.BtEntity);
             this.Controls.Add(this.BtImgToIco);
@@ -123,7 +147,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "CollectionC";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "程序集";
+            this.Text = "APF";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.CollectionC_FormClosing);
             this.ResumeLayout(false);
 
@@ -138,6 +162,8 @@
         private System.Windows.Forms.Button BtImgToIco;
         private System.Windows.Forms.Button BtEntity;
         private System.Windows.Forms.Button BtDecompile;
+        private System.Windows.Forms.Button BtJson;
+        private System.Windows.Forms.Button BtRegular;
     }
 }
 
