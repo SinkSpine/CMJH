@@ -33,19 +33,37 @@ namespace CollectionC_prj
 
         private void BtFk_Click(object sender, EventArgs e)
         {
-            Tetris.Tetris tetris = new Tetris.Tetris();
+            Tetris.Main tetris = new Tetris.Main();
             tetris.ShowDialog();
         }
 
         private void BtJm_Click(object sender, EventArgs e)
         {
-            Encryption.Encryption encryption = new Encryption.Encryption();
+            Encryption.Main encryption = new Encryption.Main();
             encryption.ShowDialog();
         }
 
         private void BtOverTime_Click(object sender, EventArgs e)
         {
             Overtime.Main main = new Overtime.Main();
+            main.ShowDialog();
+        }
+
+        private void BtImgToIco_Click(object sender, EventArgs e)
+        {
+            ImageConversionIcoAll.Main main = new ImageConversionIcoAll.Main();
+            main.ShowDialog();
+        }
+
+        private void BtEntity_Click(object sender, EventArgs e)
+        {
+            ProduceEntity.Main main = new ProduceEntity.Main();
+            main.ShowDialog();
+        }
+
+        private void BtDecompile_Click(object sender, EventArgs e)
+        {
+            Decompile.Main main = new Decompile.Main();
             main.ShowDialog();
         }
     }

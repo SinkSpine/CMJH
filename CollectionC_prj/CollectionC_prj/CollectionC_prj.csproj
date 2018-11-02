@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>JZ.ico</ApplicationIcon>
+    <ApplicationIcon>512.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -53,11 +53,17 @@
     <Compile Include="CollectionC.Designer.cs">
       <DependentUpon>CollectionC.cs</DependentUpon>
     </Compile>
-    <Compile Include="Encryption\Encryption.cs">
+    <Compile Include="Decompile\Main.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Encryption\Encryption.Designer.cs">
-      <DependentUpon>Encryption.cs</DependentUpon>
+    <Compile Include="Decompile\Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Encryption\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Encryption\Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
     </Compile>
     <Compile Include="FormLibrary\Cycle.cs">
       <SubType>Form</SubType>
@@ -77,19 +83,28 @@
     <Compile Include="Overtime\Main.Designer.cs">
       <DependentUpon>Main.cs</DependentUpon>
     </Compile>
-    <Compile Include="Program.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Tetris\Tetris.cs">
+    <Compile Include="ProduceEntity\Main.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Tetris\Tetris.Designer.cs">
-      <DependentUpon>Tetris.cs</DependentUpon>
+    <Compile Include="ProduceEntity\Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tetris\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tetris\Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="CollectionC.resx">
       <DependentUpon>CollectionC.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Encryption\Encryption.resx">
-      <DependentUpon>Encryption.cs</DependentUpon>
+    <EmbeddedResource Include="Decompile\Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Encryption\Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormLibrary\Cycle.resx">
       <DependentUpon>Cycle.cs</DependentUpon>
@@ -98,6 +113,9 @@
       <DependentUpon>Main.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Overtime\Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProduceEntity\Main.resx">
       <DependentUpon>Main.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -109,8 +127,8 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Tetris\Tetris.resx">
-      <DependentUpon>Tetris.cs</DependentUpon>
+    <EmbeddedResource Include="Tetris\Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -135,6 +153,8 @@
     <Folder Include="MyNoeGame\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="512.ico" />
+    <Content Include="ICO\512.ico" />
     <Content Include="ICO\JZ.ico" />
     <Content Include="JZ.ico" />
   </ItemGroup>

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CollectionC_prj.Encryption
 {
-    public partial class Encryption : Form
+    public partial class Main : Form
     {
-        public Encryption()
+        public Main()
         {
             InitializeComponent();
         }

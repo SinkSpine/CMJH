@@ -33,6 +33,9 @@
             this.BtFk = new System.Windows.Forms.Button();
             this.BtJm = new System.Windows.Forms.Button();
             this.BtOverTime = new System.Windows.Forms.Button();
+            this.BtImgToIco = new System.Windows.Forms.Button();
+            this.BtEntity = new System.Windows.Forms.Button();
+            this.BtDecompile = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btCycle
@@ -75,11 +78,44 @@
             this.BtOverTime.UseVisualStyleBackColor = true;
             this.BtOverTime.Click += new System.EventHandler(this.BtOverTime_Click);
             // 
+            // BtImgToIco
+            // 
+            this.BtImgToIco.Location = new System.Drawing.Point(336, 13);
+            this.BtImgToIco.Name = "BtImgToIco";
+            this.BtImgToIco.Size = new System.Drawing.Size(75, 23);
+            this.BtImgToIco.TabIndex = 4;
+            this.BtImgToIco.Text = "ICO转换器";
+            this.BtImgToIco.UseVisualStyleBackColor = true;
+            this.BtImgToIco.Click += new System.EventHandler(this.BtImgToIco_Click);
+            // 
+            // BtEntity
+            // 
+            this.BtEntity.Location = new System.Drawing.Point(417, 13);
+            this.BtEntity.Name = "BtEntity";
+            this.BtEntity.Size = new System.Drawing.Size(75, 23);
+            this.BtEntity.TabIndex = 5;
+            this.BtEntity.Text = "实体生成器";
+            this.BtEntity.UseVisualStyleBackColor = true;
+            this.BtEntity.Click += new System.EventHandler(this.BtEntity_Click);
+            // 
+            // BtDecompile
+            // 
+            this.BtDecompile.Location = new System.Drawing.Point(498, 13);
+            this.BtDecompile.Name = "BtDecompile";
+            this.BtDecompile.Size = new System.Drawing.Size(75, 23);
+            this.BtDecompile.TabIndex = 6;
+            this.BtDecompile.Text = "反编译器";
+            this.BtDecompile.UseVisualStyleBackColor = true;
+            this.BtDecompile.Click += new System.EventHandler(this.BtDecompile_Click);
+            // 
             // CollectionC
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(984, 661);
+            this.Controls.Add(this.BtDecompile);
+            this.Controls.Add(this.BtEntity);
+            this.Controls.Add(this.BtImgToIco);
             this.Controls.Add(this.BtOverTime);
             this.Controls.Add(this.BtJm);
             this.Controls.Add(this.BtFk);
@@ -99,6 +135,9 @@
         private System.Windows.Forms.Button BtFk;
         private System.Windows.Forms.Button BtJm;
         private System.Windows.Forms.Button BtOverTime;
+        private System.Windows.Forms.Button BtImgToIco;
+        private System.Windows.Forms.Button BtEntity;
+        private System.Windows.Forms.Button BtDecompile;
     }
 }
 

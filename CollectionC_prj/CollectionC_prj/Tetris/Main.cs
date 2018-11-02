@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CollectionC_prj.Tetris
 {
-    public partial class Tetris : Form
+    public partial class Main : Form
     {
-        public Tetris()
+        public Main()
         {
             InitializeComponent();
         }
