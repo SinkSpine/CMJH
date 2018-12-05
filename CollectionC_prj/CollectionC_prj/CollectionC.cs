@@ -78,5 +78,11 @@ namespace CollectionC_prj
             Regular.Main main = new Regular.Main();
             main.ShowDialog();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            ColorMania.Main main = new ColorMania.Main();
+            main.ShowDialog();
+        }
     }
 }

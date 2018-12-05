@@ -53,6 +53,12 @@
     <Compile Include="CollectionC.Designer.cs">
       <DependentUpon>CollectionC.cs</DependentUpon>
     </Compile>
+    <Compile Include="ColorMania\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ColorMania\Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
     <Compile Include="Decompile\Main.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -111,6 +117,9 @@
     </Compile>
     <EmbeddedResource Include="CollectionC.resx">
       <DependentUpon>CollectionC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ColorMania\Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Decompile\Main.resx">
       <DependentUpon>Main.cs</DependentUpon>
